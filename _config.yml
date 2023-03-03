@@ -4,7 +4,7 @@ title: Open Earth Foundation Tech Team
 email: tech@openearth.org
 description: >- # this means to ignore newlines until "baseurl:"
   Open Earth Foundation creates Open Source software to fight climate change.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://open-earth-foundation.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Open__Earth
 github_username:  Open-Earth-Foundation
