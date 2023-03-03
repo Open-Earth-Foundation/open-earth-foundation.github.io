@@ -10,6 +10,8 @@ Last week, I represented OEF at the [Confoo.ca](https://confoo.ca/) event in Mon
 
 ![Evan at Confoo](/assets/img/evan-at-confoo.jpg)
 
+*Evan at Confoo, wearing his cool OpenClimate T-shirt*
+
 It was the first time I'd been to an in-person Open Source conference since going to [Wikimania in 2019](https://wikimania.wikimedia.org/wiki/2019:Program). I'd been to [FWD50](https://fwd50.ca/) in Ottawa last year, but I hadn't really represented OEF to the developer community specifically.
 
 My main point of going was to learn how to interact with the Open Source community on behalf of OEF. How do we reach out to contributors? What's our relationship to other Open Source organizations?
@@ -51,3 +53,5 @@ The lightning talk went off really well. I had quite a few people come ask me af
 Overall, I had a really good time at Confoo. I learned a lot, and I got to connect with people. The level of engagement ratio versus my level of preparation was extremely high. I'm looking forward to doing more Open Source conference presentations this year.
 
 ![Birds of a feather](/assets/img/birds-of-a-feather.jpg)
+
+*These ducks were in the warm pond at the Bonaventure Hotel. It was -25C on the final day of the conference.*
