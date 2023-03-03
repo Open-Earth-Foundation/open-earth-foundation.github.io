@@ -12,13 +12,13 @@ Pushing to GitHub makes changes.
 
 The steps for installing Jekyll are here:
 
-    https://jekyllrb.com/docs/installation/macos/
+>https://jekyllrb.com/docs/installation/macos/
 
 # Adding a blog post
 
 The steps for adding a new post are here:
 
-    https://jekyllrb.com/docs/posts/
+>https://jekyllrb.com/docs/posts/
 
 # Testing locally
 
