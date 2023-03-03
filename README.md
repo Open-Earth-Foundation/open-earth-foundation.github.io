@@ -1,6 +1,6 @@
 # open-earth-foundation.github.io
 
-This is the blog repo for the Open Earth Foundation team.
+This is the repo for the [Open Earth Foundation tech team blog](https://open-earth-foundation.github.io/).
 
 It uses [Jekyll](https://jekyllrb.com/) to publish to [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
 
