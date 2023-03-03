@@ -6,8 +6,6 @@ author: evanp
 tags: conference opensource confoo
 ---
 
-# Reflections from Confoo.ca
-
 Last week, I represented OEF at the [Confoo.ca](https://confoo.ca/) event in Montreal. Confoo is a regional Open Source conference, focused on Quebec and Canada in general. But there are attendees from the Northeast US, France, and other parts of Europe. The emphasis is strongly on Web development.
 
 ![Evan at Confoo](/assets/img/evan-at-confoo.jpg)
